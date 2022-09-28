@@ -2,15 +2,15 @@
 Just some fun virues to mess with your friends
 -----------------------------------------
 
-TurnOff.bat
+turnOff.bat
 -----------------------------------------
 When it is finished it will pin itself to start and shutdown the pc, it will shutdown the pc every time it boots. The way around it? Simply boot in safe mode
 
-Notepad.bat
+notepad.bat
 -----------------------------------------
 Starts so many notepads that the pc can't seem to run
 
-MakeItWorse.bat
+makeItWorse.bat
 -----------------------------------------
 Okay so this is probably the most stable of the MD bombers here. Run it and it will fill your entire desktop with empty file folders, this makes it super hard to run anything and the whole computer pretty much just crashes. You can't open files and it is even hard to delete them. 
 
