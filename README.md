@@ -1,5 +1,4 @@
 # Fun-Bat-Viruses
-Just some fun virues to mess with your friends
 -----------------------------------------
 
 TurnOff.bat
