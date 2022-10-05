@@ -15,3 +15,7 @@ Okay so this is probably the most stable of the MD bombers here. Run it and it w
 minecraftLauncher.bat/notAVirus.bat
 -----------------------------------------
 The notAVirus1-3 files and the "Minecraft Launcher" need some setup but they do the same thing as MakeItWorse.bat. Set the icon of "Minecraft Launcher" to the minecraft launcher icon then hide the other three files. Simply put it on someones desktop and when they try to open minecraft it will run 3 MD bombers, constantly opening them. I don't find it to really be as effective as MakeItWorse but it will work and it has a fun delivery method 
+
+ListMaker.js
+-----------------------------------------
+Okay I get it this is JS and not BATCH but it is cool, it genorates a list of all possible combinations within the given list up to two characters. I am currently working on making to go up to 8 or more characters so that it could actually be useful for password cracking or something. Maybe I will just make a list of every possible combination of each character count that you could plug into a password cracker later. 
